@@ -1,2 +1,0 @@
-# AndroMyFirst
-belajar android
